@@ -2,152 +2,132 @@
   "main": {
     "name": "Tyler Williams",
     "occupation": "Full Stack Software Engineer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "proficient in Bootstrap, CSS3, Express, Node.js, PostgreSQL and React.js. One year of experience collaborating with software engineers of varying experience levels allowing myself to be introduced to multiple codebases of varying complexity. Firm believer in creating responsive, user-friendly websites utilizing the mobile-first approach. Soon to be Thinkful certified. Strong willingness to learn and grow through collaboration with an accepting, project-driven team",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "I am a 20 year old Full Stack Engineer, natural socialite and passionate musician. I have had an interest in engineering/creating something out of nothing from an early age thanks to my grandpa. He was an automotive engineer for Ford and so we bonded over math and creations made possible because of it. Originally, I thought I'd follow in his tracks and build parts for cars as an automotive engineer but ended up falling in love with software development at 17 ( my last year of highschool). This led me to pursue a degree in Applied Computer Science at NAU, whereafter two years I realized I was not learning adequately to succeed as a software engineer. So, I made one of the smartest--my family may some dumbest--decisions of my life and dropped out of college to find a better way to reach my goal. That's when I found Thinkful which gave me all the tools I needed to create software at a large scale and then some. I'm excited to leave my mark as an innovator in this industry as I learn and create more!  ",
+    "email": "Tylerwilliams1737@gmail.com",
+    "phone": "480-717-1737",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Phoenix"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "http://www.linkedin.com/in/tyler-williams-career/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/SinceWhenBro",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am a passionate Full Stack Developer and a socialite at heart. I have a personal passion for web development and app development and aspire to develop my own apps that solve large problems in a user-friendly way...",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Northern Arizona University (NAU)",
+        "degree": "Applied Computer Science",
+        "graduated": "2019-2021",
+        "description": "Personally, I did not feel that I was learning the methods and tools needed to succeed in this industry at NAU. Following two years of taking classes that couldn't help but feel outdated or lacking applicability I decided to drop out of university and seek a better option...That being said I did learn MATLAB, Java, Eclipse and learn some of the foundations of Data Structures and algorithms."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Thinkful",
+        "degree": "Software Engineering Bootcamp",
+        "graduated": "August-December 2021",
+        "description": "Within 2 weeks of my attending a rigorous software engineering course I felt that I had more applicable knowledge to the software engineering space than I attained my entire time at NAU. Over the entirety of the course I became proficient in VSCode, HTML5, CSS3, JavaScript, React.js, Bootstrap, Node.js, Knex.js, PostgreSQL, Express, Data Structures, Algorithms, Postman, and Github."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Northern Arizona University ITS",
+        "title": "Assistant Programmer",
+        "years": "February 2020 - February 2021",
+        "description": "Although only an introductory position I worked to maintain live applications such as online lunch portals via updating packages frequently (utilizing Node.js), gained experience working with programmers of varying experience levels to reach a goal or solve a problem and was hired on with little to no experience using the languages or frameworks that were heavily employed at this position, but rose to the occasion and learned quickly to maintain my position."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Johnston & Murphy's",
+        "title": "Sales Associate",
+        "years": "May 2018 – December 2019 ",
+        "description": "Worked on a commission pay scale that required me to become an expert in sales. I am a natural socialite so I exceeded here as one of it's top sellers during my time as an associate. Around 6 months into the position I became entrusted with one of two store keys, the other belonging to the store manager. This was a position I thrived in as I love being social and talking to people and this gave me an avenue to be social, helpful, profitable and meet deadlines all at once. "
       }
     ],
     "skills": [
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
         "level": "50%"
       },
       {
+        "name": "Express",
+        "level": "55%"
+      },
+      {
+        "name": "React.js",
+        "level": "70%"
+      },
+      {
         "name": "CSS",
-        "level": "90%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "Node.js",
         "level": "50%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "PostreSQL",
+        "level": "55%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
+        "title": "Pomodoro Timer",
         "category": "My Travel Blog for my post-university travels",
         "image": "canadian-wanderlust.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "MyMovies",
         "category": "(offline now) A fighting gear company I started",
         "image": "fury-fighting-gear.jpg",
         "url": "http://www.timbakerdev.com"
       },
       {
-        "title": "Original Thai Food",
+        "title": "Decoder Ring",
         "category": "Website I built for a restaurant I like in Thailand",
         "image": "original-thai-food.jpg",
         "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Flashcard-O-Matic",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
         "title": "Resume Website",
         "category": "A React based resume website template",
         "image": "resume-website.jpg",
         "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "One of the few people I have met that genuinely pours their heart into anything they try their hand at...",
+        "user": "Jacob Beiley - Audio Engineer"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I see a lot of me in you, if I would've had my head on my shoulders and been as focused on my career as you when I was your age I'd be even further along then I am now. Stick with software engineering and I'm sure I could see you leading a team or creating something popular and profitable.",
+        "user": "Jose Cherry- Staff Lead Developer"
       }
     ]
   }
