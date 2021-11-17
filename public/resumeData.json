@@ -69,7 +69,7 @@
       },
       {
         "name": "CSS",
-        "level": "70%"
+        "level": "60%"
       },
       {
         "name": "HTML5",
@@ -88,34 +88,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Pomodoro Timer",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "MyMovies",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
         "title": "Decoder Ring",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "category": "An app to both decode and encode messages depending on the given algorithm",
+        "image": "decoder-ring.jpg",
+        "url": "https://github.com/SinceWhenBro/qualified-challenges/tree/master/Decoder-Ring"
       },
       {
-        "title": "Flashcard-O-Matic",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Flashcard-o-matic",
+        "category": "An app designed for students to study and teacher's to provide the material needed to study.",
+        "image": "flashcard.jpg",
+        "url": "https://github.com/SinceWhenBro/qualified-challenges/tree/master/Project_Flashcards_Qualified_1"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Pomodoro Timer",
+        "category": "Both decode and encode messages depending on the given algorithm",
+        "image": "decoder-ring.jpg",
+        "url": "https://github.com/SinceWhenBro/qualified-challenges/tree/master/Project_Pomodoro_Timer_Qualified"
+      },
+      {
+        "title": "Restaurant Reservation",
+        "category": "A full-stack app that stores reservations for restaurant goers (Still in production)",
+        "image": "restaurant-reservation.jpg",
+        "url": "https://github.com/SinceWhenBro/starter-reservation-system"
+      },
+      {
+        "title": "WeLoveMovies",
+        "category": "Developed the back-end for a movie review application",
+        "image": "we-love-movies.jpg",
+        "url": "https://github.com/SinceWhenBro/WeLoveMovie"
       }
     ]
   },
@@ -127,7 +127,7 @@
       },
       {
         "text": "I see a lot of me in you, if I would've had my head on my shoulders and been as focused on my career as you when I was your age I'd be even further along then I am now. Stick with software engineering and I'm sure I could see you leading a team or creating something popular and profitable.",
-        "user": "Jose Cherry- Staff Lead Developer"
+        "user": "Jose Cherry - Staff Lead Developer"
       }
     ]
   }
