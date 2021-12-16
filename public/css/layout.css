@@ -69,12 +69,13 @@ header .banner-text h1 {
    color: rgba(255, 255, 255, 0.945);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(255, 255, 255, 0.945);
-   -webkit-text-stroke:3px rgb(0, 0, 0);
+   text-shadow: 0px 3px 3px rgba(255, 255, 255, 0.945);
+   -webkit-text-stroke:1.5px rgb(0, 0, 0);
   -webkit-text-fill-color:transparent;
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'opensans-bold', sans-serif;
+   font: 16.58px/1.9em 'Verdana', sans-serif;
+   font-weight: bold;
    color: #fff;
    margin: 0 auto;
    width: 70%;
