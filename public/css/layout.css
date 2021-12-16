@@ -56,16 +56,25 @@ header .banner {
    text-align: center;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text {
+    width: 100%; 
+    background: rgba(0, 0, 0, 0.6);
+    border-style: solid;
+    border-width: 5px;
+    border-color: #2B2B2B;
+    box-shadow: 5px 10px #888888;
+   }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: rgba(255, 255, 255, 0.945);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+   text-shadow: 0px 1px 3px rgba(255, 255, 255, 0.945);
+   -webkit-text-stroke:3px rgb(0, 0, 0);
+  -webkit-text-fill-color:transparent;
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font: 18px/1.9em 'opensans-bold', sans-serif;
    color: #fff;
    margin: 0 auto;
    width: 70%;
@@ -74,7 +83,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: rgb(42, 42, 42);
+   color: rgb(201, 183, 183);
 }
 header .banner-text hr {
    width: 60%;

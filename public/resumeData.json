@@ -2,9 +2,9 @@
   "main": {
     "name": "Tyler Williams",
     "occupation": "full stack software engineer",
-    "description": "proficient in Bootstrap, CSS3, Express, Node.js, PostgreSQL and React.js. One year of experience collaborating with software engineers of varying experience levels allowing myself to be introduced to multiple codebases of varying complexity. Firm believer in creating responsive, user-friendly websites utilizing the mobile-first approach. Soon to be Thinkful certified. Strong willingness to learn and grow through collaboration with an accepting, project-driven team",
+    "description": "proficient in Bootstrap, CSS3, Express, Node.js, PostgreSQL and React.js. One year of experience collaborating with software engineers of varying experience levels allowing myself to be introduced to multiple codebases of varying complexity. Thinkful certified and a firm believer in creating responsive, user-friendly websites utilizing the mobile-first approach. Strong willingness to learn and grow through collaboration with an accepting, project-driven team",
     "image": "profilepic.jpg",
-    "bio": "I am a 20 year old full stack software engineer, natural socialite and passionate musician. I have had an interest in engineering/creating something out of nothing from an early age thanks to my grandpa. He was an automotive engineer for Ford and so we bonded over math and creations made possible because of it. Originally, I thought I'd follow in his tracks and build parts for cars as an automotive engineer but ended up falling in love with software development at 17 ( my last year of highschool). This led me to pursue a degree in Applied Computer Science at NAU, whereafter two years I realized I was not learning adequately to succeed as a software engineer. So, I made one of the smartest--my family may some dumbest--decisions of my life and dropped out of college to find a better way to reach my goal. That's when I found Thinkful which gave me all the tools I needed to create software at a large scale and then some. I'm excited to leave my mark as an innovator in this industry as I learn and create more!  ",
+    "bio": "I am a 20 year old full stack software engineer, natural socialite and passionate musician. I have had an interest in engineering/creating something out of nothing from an early age thanks to my grandpa. He was an automotive engineer for Ford and so we bonded over math, and the creations made possible because of it. Originally, I thought I'd follow in his tracks and build parts for cars as an automotive engineer but ended up falling in love with software development at 17 ( my last year of highschool). This led me to pursue a degree in Applied Computer Science at NAU, whereafter two years I realized I was not learning adequately to succeed as a software engineer. So, I made one of the smartest--my family may some dumbest--decisions of my life and dropped out of college to find a better way to reach my goal. That's when I found Thinkful which gave me all the tools I needed to create software at a large scale and then some. I'm excited to leave my mark as an innovator in this industry as I learn and create more!  ",
     "email": "Tylerwilliams1737@gmail.com",
     "phone": "480-717-1737",
     "address": {
@@ -109,7 +109,7 @@
         "title": "Restaurant Reservation",
         "category": "A full-stack app that stores reservations for restaurant goers (Still in production)",
         "image": "restaurant-reservation.jpg",
-        "url": "https://github.com/SinceWhenBro/starter-reservation-system"
+        "url": "https://restaurant-res-client-tw.herokuapp.com/dashboard"
       },
       {
         "title": "WeLoveMovies",
@@ -126,7 +126,7 @@
         "user": "Jacob Beiley - Audio Engineer"
       },
       {
-        "text": "I see a lot of me in you, if I would've had my head on my shoulders and been as focused on my career as you when I was your age I'd be even further along then I am now. Stick with software engineering and I'm sure I could see you leading a team or creating something popular and profitable.",
+        "text": "I see a lot of me in you. If I would've had my head on my shoulders and been as focused on my career as you when I was your age I'd be even further along then I am now. Stick with software engineering and I'm sure I could see you leading a team or creating something popular and profitable.",
         "user": "Jose Cherry - Staff Lead Developer"
       }
     ]
